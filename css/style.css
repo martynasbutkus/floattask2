@@ -82,7 +82,7 @@ a{
     cursor: pointer;
 }
 .hover{
-    background-image: url("/resources/images/zoom.png");
+    background-image: url("/images/zoom.png");
     position: absolute;
     box-sizing: border-box;
     width: 100px;
